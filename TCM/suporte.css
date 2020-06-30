@@ -1,0 +1,160 @@
+  body
+    {
+     margin:0px;
+	 font-family: Verdana;  
+	
+    }
+  
+  header
+    {
+     margin-bottom:0.7320644216691069vw; 
+	 color:rgb(0,0,0);
+	 font-family:Clarendon Blk BT;
+	 background:rgba(0,0,0,0.2);
+	 height:6vw;
+	 width:100%;
+	 position:fixed;  /* posição absoluta */
+	 margin-top:-1.7%;
+    }
+
+	
+
+    header img
+    {
+     width:7.320644216691069vw;
+	 height:6vw;
+	 border-radius:0.43923865300146414vw;
+	 opacity:0.7
+	 margin-top:3%;
+    } 
+
+   a 
+    { 
+     text-decoration:none; 
+	 color:rgb(255,255,255);
+	 margin:0.36603221083455345vw;	 
+    } 
+
+  a:hover 
+	{
+     color: rgb(27,24,25);
+     border-bottom:3px solid rgb(0,0,0);
+ 	 margin:5px;
+	}
+
+  #menu
+    {
+ 	  float:right;
+	  margin-top:-75px;
+	  color:rgb(0,0,0);
+    }
+
+	
+
+   #menu ul 
+    {
+	 padding:30px;
+     list-style:none;
+     display: inline-block;
+    }
+	
+  .titulosobre h3
+    {      
+      font-family:Constantia;  
+	  font-size:170%;
+	  box-shadow: 10px 2px;	 
+	  border-radius: 15px;	  
+    }
+
+   h3
+    {
+      color:rgb(255, 250, 255);
+	  font-size:26px;
+    }
+		
+  section h3
+    {
+      background:linear-gradient(rgb(166, 171, 178),rgb(78, 80, 84),rgb(51, 53, 56));   
+      font-family:Constantia; 
+	     }
+  #titulofaq
+    {
+	 text-align:center;
+	 margin-top:5vw;
+	 font-family:Clarendon Blk BT;
+	 border-bottom: 1px solid rgb(0,0,0);
+	}
+
+  .pergunta
+    {
+     border-bottom: 1px solid rgb(0,64,64);
+     padding: 10px 0;
+     width:850px;
+     margin-left:22vw;
+	 margin-bottom:1vw;
+	 margin-top:3vw;
+     
+    }
+   
+.pergunta input,
+.pergunta .resposta 
+   {
+    display: none;text-align:center;
+	margin-top:1vw;
+   }
+
+.pergunta label 
+   {
+    display: inline-block;
+    font-weight: bold;
+    margin-bottom: 1vw;
+    width: 100%;
+    text-align:center;
+   }   
+
+  .pergunta input:checked ~ .resposta 
+   {
+    display: block
+	
+   }
+
+
+	
+
+ #rodape-suporte
+    {
+	 background-color:rgb(64,64,64);
+	 float:left;
+	 width:99.3%;
+	 height:11vw;
+     color:rgb(255,255,255);
+     padding-left:1vw;
+     text-align:center;
+	 margin-top:34vw;
+	 position:absolute;
+	 margin:0vw;
+    }
+
+ #end
+    {	        
+	float:left;
+	width:26vw;
+	
+    }
+
+	
+
+  #contato
+	{
+	 width:20.961932650073205vw;
+	 padding-left:40vw;
+	 margin-bottom:30px;
+	}
+	
+   #redeS
+    {
+	 padding-left:1050px;
+	 margin-top:-7.8vw;									
+    }
+    
+  

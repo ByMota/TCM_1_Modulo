@@ -1,0 +1,162 @@
+
+	body
+
+	{
+	 font-family: Verdana;
+     margin:0vw;
+	}
+
+	
+
+	#home
+
+	{
+	 background-image: url('imagens/pdigi2.png');
+	 background-position: center;
+	 background-size:105vw;
+	 background-repeat:no-repeat;
+	 height:60vw;
+	}
+
+	header
+    {  
+     margin-bottom:0.7320644216691069vw; 
+	 color:rgb(0,0,0);
+	 font-family:Clarendon Blk BT;
+	 background:rgba(0,0,0,0.4);
+	 height:6vw;
+	 width:100%;
+	 position:fixed;
+	 margin-top:-0.2%;
+    }
+
+	
+
+	header img
+    {
+     width:100px;
+	 height:6vw;
+	 border-radius:6px;
+	 opacity:0.7
+	
+    }  
+
+	
+
+	#menu ul 
+    {
+	 padding:10px;
+     margin:0px;
+     list-style:none;
+	 padding: 2px 10px;
+     display: inline-block;            
+    }
+
+	
+
+	#menu
+	{
+	 background-size: 1340px;
+	 float:right;
+	 margin-top:-35px;
+	 color:rgb(0,100,50);	 
+	}
+
+	#img1
+	{
+	 width:100%!important;
+	}
+
+
+    #header img
+    {
+	 width:100px;
+	 height:85;
+	 border-radius:6px;
+	 opacity:0.7
+    }
+
+    			
+
+	img#flyer 
+	{
+	 margin-top:67vw;
+	 margin-left:30vw;
+	}
+	
+
+	#rodape-home
+	{
+	 background-color:rgb(34,104,204);
+	 float:left;
+	 width:99.3%;
+	 height:10vw;
+	 color:rgb(255,255,255);
+     padding-left:10px;
+     text-align:center;
+	 margin-top:73vw;
+	 position:absolute;
+	 top:58vw;
+    }
+
+	nav
+	{
+	 margin-left:33%;
+	}	
+		
+	section p 
+	{
+	 color:rgb(0,0,0);
+	 font-size:180%;
+	 margin-left:5%;
+	}
+
+	section h4
+	{
+	 margin-left:3%;
+	 font-size:80%;
+	}
+
+  section h3 
+    {
+	 margin-left:58%;
+	}
+
+    a 
+    { 
+     text-decoration:none; 
+	 color:rgb(255,255,255); 
+	 margin:0.36603221083455345vw;
+    } 
+
+	
+  a:hover 
+	{
+    color: rgb(27,24,25);
+    border-bottom:3px solid rgb(0,0,0);
+	margin:0.36603221083455345vw;
+	}
+
+	
+	#end
+	{	        
+			float:left;
+			margin-left:4vw;
+			width:320px;
+			height:auto;
+			margin-top:-20px;
+	}
+
+	#contato
+	{
+	        width:320px;
+			padding-left:39vw;
+			margin-bottom:30px;
+	}
+
+	
+	#RedeS
+	{
+	        padding-left:1050px;
+			margin-top:-120px;
+	}

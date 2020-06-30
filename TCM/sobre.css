@@ -1,0 +1,142 @@
+
+ 
+
+  body
+    {
+     margin:0px;
+	 font-family: Verdana;  
+    }
+
+
+header
+    {  
+	 margin-bottom:10px; 
+	 color:rgb(0,0,0);
+	 font-family:Clarendon Blk BT;
+	 background:rgba(0,0,0,0.2);
+	 height:6vw;
+	 width:100%;
+	 position:fixed; /* posição absoluta */
+	 margin-top:-1.7%;
+    }
+
+  header img
+    {
+     width:100px;
+	 height:6vw;
+	 border-radius:6px;
+	 opacity:0.7
+	 margin-top:3%;
+    }
+
+
+   a 
+    { 
+     text-decoration:none; 
+	 color:rgb(255,255,255);
+	 margin:5px;	 
+    } 
+
+	
+
+  a:hover 
+	{
+    color: rgb(27,24,25);
+    border-bottom:3px solid rgb(0,0,0);
+	margin:5px;
+	
+	}
+
+	
+
+  #menu
+    {
+ 	  float:right;
+	  margin-top:-75px;
+	  color:rgb(255,0,255);
+	  border:1px;
+    }
+
+ 	
+
+  #menu ul 
+    {
+     padding:30px;
+     list-style:none;
+     display: inline-block;
+    }
+	
+
+   .titulosobre h3
+    {      
+      font-family:Constantia;  
+	  font-size:170%;
+	  box-shadow: 10px 0px;	 
+	  border-radius: 14px;	  
+    }
+	
+
+   h3
+    {
+      color:rgb(255, 250, 255);
+    }
+
+    
+  section h3
+    {
+      background:linear-gradient(rgb(166, 171, 178),rgb(78, 80, 84),rgb(51, 53, 56));   
+      font-family:Constantia;  
+    }
+
+  .caixa
+    {
+	 width: 320px;
+	 /*height: auto;*/
+	 float: left;
+	 margin-left:5vw;
+     text-align:center;	
+     font-size:1.1vw;	 
+    }
+
+ 
+
+	
+
+ #rodape-sobre
+    {
+	 background-color:rgb(64,64,64);
+	 float:left;
+	 width:99.3%;
+	 height:11vw;
+     color:rgb(255,255,255);
+     padding-left:1vw;
+     text-align:center;
+	 margin-top:34vw;
+	 position:absolute;
+	 
+    }
+
+ #end
+    {	        
+	float:left;
+	width:26vw;
+	
+    }
+
+	
+
+  #contato
+	{
+	 width:20.961932650073205vw;
+	 padding-left:38vw;
+	 margin-bottom:30px;
+	}
+	
+   #redeS
+    {
+	 padding-left:1050px;
+	 margin-top:-7.4vw;									
+    }
+
+
+
