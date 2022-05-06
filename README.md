@@ -1,2 +1,3 @@
 # ByMota.github.io
-Primeiro site feito por mim para o meu TCM da etec em 2019
+Site feito para o Trabalho de Conclusão de Módulo, no curso de Análise e Desenvolvimento de Sistemas 
+		
